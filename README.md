@@ -27,5 +27,8 @@ Result-driven, like TDD principle, attentive to details.
 <br>
 
 #
+[![dmko1610 Codewars stats](https://www.codewars.com/users/dmko1610/badges/large)](https://www.codewars.com/users/dmko1610/badges/large)
+
+#
 
 ![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmko1610&show_icons=true&theme=dark)
