@@ -26,7 +26,7 @@ Result-driven, like TDD principle, attentive to details.
 <img align="left" alt="WebStorm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />
 <br>
 
-#
+---
 [![dmko1610 Codewars stats](https://www.codewars.com/users/dmko1610/badges/large)](https://www.codewars.com/users/dmko1610/badges/large)
 
 #
