@@ -31,4 +31,4 @@ Result-driven, like TDD principle, attentive to details.
 
 #
 
-![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmko1610&show_icons=true&theme=dark)
+![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmko1610&show_icons=true&theme=dark&count_private=true)
