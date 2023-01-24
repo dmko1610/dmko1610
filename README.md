@@ -25,6 +25,7 @@ Result-driven, like TDD principle, attentive to details.
 
 <br>
 
+
 ---
 
 [![dmko1610 Codewars stats](https://www.codewars.com/users/dmko1610/badges/large)](https://www.codewars.com/users/dmko1610/badges/large)
