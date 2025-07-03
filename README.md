@@ -1,8 +1,8 @@
 # Dmitry Kovalev
 
-**`Software engineer/JS Developer`**
+**`Software Engineer/React Native Developer`**
 
-I'm a JS developer, making Web and Mobile apps with React and React-Native.
+I'm a React Native developer, making Mobile apps with React-Native.
 I commited to DRY, KISS and the other pragmatic principles of programming.
 Result-driven, like TDD principle, attentive to details.
 
